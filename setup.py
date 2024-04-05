@@ -9,6 +9,7 @@ __version__ = "1.0"
 REPO_NAME = "Text-Summarizer-Project"
 AUTHOR_USER_NAME = "Kumar Saksham"
 SRC_REPO = "textSummarizer"
+GUIDED_BY = "KRISH NAIK'S END-to-END PROJECT VIDEOS"
 
 
 
